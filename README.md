@@ -4,6 +4,15 @@ Platform Specific Styles. Create simple platform specific stylesheets for React 
 
 Apply Platform specific styles to components by specifying android and ios keys in the component's style property.
 
+Installation
+```sh
+#npm
+npm install --save react-native-pss
+
+#yarn
+yarn add react-native-pss
+```
+
 The below snippet will create background color 'red' on android and 'yellow' on ios
 ```js
 import StyleSheet from 'react-native-pss';
