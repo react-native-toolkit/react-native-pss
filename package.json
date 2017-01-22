@@ -16,5 +16,8 @@
     "platform-specific"
   ],
   "author": "DaniAkash",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react-native": "0.x"
+  }
 }
