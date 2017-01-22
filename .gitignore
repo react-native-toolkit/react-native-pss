@@ -2,3 +2,4 @@ node_modules
 .eslintrc.json
 yarn.lock
 .vscode
+npm-debug.log
