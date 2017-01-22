@@ -1,7 +1,7 @@
 {
   "name": "react-native-pss",
   "version": "1.0.0",
-  "description": "Create simple platform specific stylesheets for React Native",
+  "description": "Platform Specific Styles. Create simple platform specific stylesheets for React Native",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
@@ -10,6 +10,8 @@
   "keywords": [
     "platform",
     "specific",
+    "style",
+    "styles",
     "stylesheet",
     "pss",
     "react-native",
