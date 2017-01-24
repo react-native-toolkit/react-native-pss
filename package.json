@@ -17,7 +17,8 @@
     "react-native",
     "platform-specific"
   ],
-  "author": "DaniAkash",
+  "author": "DaniAkash <s.daniakash@gmail.com> (https://github.com/DaniAkash)",
+  "repository": "DaniAkash/react-native-pss",
   "license": "MIT",
   "dependencies": {
     "react-native": "0.x"
